@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+We are Famers Ba Ba Da Da Da Da Da
 Use the left arrow to go back!
